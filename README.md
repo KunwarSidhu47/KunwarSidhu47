@@ -57,8 +57,4 @@ Currently contributing to **Project HAMi (CNCF)** and participating in **GirlScr
   <a href="mailto:kunwarsidhu1947@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-
-  <a href="https://github.com/KunwarSidhu47">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
 </p>
