@@ -57,7 +57,7 @@ Currently contributing to **Project HAMi (CNCF)** and participating in **GirlScr
 ## 🤝 Connect
 
 <p align="left">
-  <a href="https://linkedin.com/in/kunwartejpal-singh-sidhu">
+  <a href="https://www.linkedin.com/in/kunwartejpal-singh-sidhu/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
