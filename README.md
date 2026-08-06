@@ -1,7 +1,11 @@
 <p align="center">
   <img src="banner.png" alt="Banner"/>
 </p>
-# Hi! , I'm Kunwartejpal Singh Sidhu
+
+**Code -> Build -> Contribute -> Repeat**
+
+
+Hi! , I'm Kunwartejpal Singh Sidhu
 
 `KunwarSidhu47`
 
