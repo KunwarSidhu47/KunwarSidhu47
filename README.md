@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Banner"/>
+  <img src="banner_.png" alt="Banner"/>
 </p>
 
 **Code -> Build -> Contribute -> Repeat**
