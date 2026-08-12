@@ -14,7 +14,7 @@ Hi! I'm Kunwartejpal Singh Sidhu
 
 Currently contributing to **Project HAMi (CNCF)** and participating in **GirlScript Summer of Code (GSSoC) 2026**, while building full-stack web applications.
 
-- **Project HAMi (CNCF)** - 2 merged PRs : contributing to Kubernetes GPU virtualization and heterogeneous accelerator scheduling for AI infrastructure.
+- **Project HAMi (CNCF)** - 3 merged PRs : contributing to Kubernetes GPU virtualization and heterogeneous accelerator scheduling for AI infrastructure.
 - **GirlScript Summer of Code (GSSoC) 2026** - Contributor, **Ranked #395 Globally**
 - **27+ Merged Pull Requests** across multiple production-grade open-source repositories.
 
